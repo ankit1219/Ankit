@@ -28,7 +28,7 @@
 
 I'm passionate about contributing to open-source projects, particularly in the realm of testing frameworks and automation tools. Keep an eye out for my latest contributions!
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1fRbpTbJJAfXSwjf154oAu5szGB2gWvmH/view?usp=drive_link)
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1C70k5y6jA6KxUhw-lWe1dlnoBzSlGT7s/view?usp=drive_link)
 
 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ankit-kumar-9b6953222/)
 
